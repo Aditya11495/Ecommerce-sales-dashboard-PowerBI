@@ -28,6 +28,4 @@ The dashboard provides insights into:
 - Power BI  
 - DAX  
 - Excel / CSV Dataset  
-- Data Cleaning & Data Modeling  
-
-## Project Structure
+- Data Cleaning & Data Modeling
